@@ -6,7 +6,7 @@ This project was generated with Java and SpringBoot.
 
 https://myreview-api.herokuapi.com/
 
-## Front-end
+## Front-end (Angular 8)
 
 http://myreview-app.herokuapp.com/
 
